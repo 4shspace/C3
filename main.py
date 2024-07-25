@@ -10,8 +10,7 @@ openai.api_key = API_KEY
 # 페이지 제목
 st.header("강점 중심의 학생 주도성 신장을 위한 ", divider='rainbow')
 
-st.subheader(':gray[울산 화진초등학교] :blue[석희철] :sunglasses:')
-
+st.subheader(':gray[이 앱은] :blue[울산 화진초 석희철선생님의 허락을 받고 사용합니다.] :sunglasses:')
 st.write("학생 맥락과 AIDT 기능, 그리고 AI 기반 지원 방안을 단계적으로 입력해주세요.", divider='rainbow')
 
 # Step 1: 학생 맥락 입력
